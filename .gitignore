@@ -1,0 +1,9 @@
+__pycache__/
+
+venv_sn_file_grab/
+
+scraps.py
+
+test_sn_files_utils.py
+
+log*.txt
