@@ -74,6 +74,7 @@ This is an amateur project built mainly for coding practice, therefore...
 
 # Licences
 [License lgpl-3.0](https://github.com/gorbash1370/security_now_files/blob/main/LICENSE)  
+Please of course respect any licences and limitations expressed at [grc.com](https://www.grc.com/)
 
 
 # If you enjoy this project...
