@@ -65,7 +65,7 @@ Otherwise, no external dependencies (just standard Python library imports)
 * **Duplication Avoidance**: To prevent redundant downloads, the program checks for existing files in the output directory and skips any episodes already downloaded.
 
 
-# gorbash1370 Disclaimer ![alt text](disclaimer-1.gif)
+# gorbash1370 Disclaimer ![alt text](/misc/disclaimer.gif)
 This is an amateur project built mainly for coding practice, therefore...
 * Commentary may appear excessive (learning 'notes')
 * Some code is expanded (rather than shortened & simplified) for learning clarity.
@@ -80,6 +80,6 @@ Please of course respect any licences and limitations expressed at [grc.com](htt
 # If you enjoy this project...
 - If you find any bugs or errors, please do let me know.
 - Please consider sending me some project feedback or any suggestions for improvement!
-- [BuyMeACawfee](https://www.buymeacoffee.com/gorbash1370)
+- [BuyMeACawfee](https://www.buymeacoffee.com/gorbash1370)  ☕
 
 _Last code update 2024-03-13_
