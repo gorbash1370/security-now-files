@@ -29,14 +29,14 @@ Whilst I can't deny that if my ML skills were good enough I'd have tried develop
 Otherwise, no external dependencies (just standard Python library imports)
 
 # Program Structure  ![alt text](misc/map.png)
-[`sn_files_user_variables.py`](https://github.com/gorbash1370/security_now_files/blob/main/sn_files_user_variables.py) - set the `output_directory` for where the downloaded files should be saved, set whether you want to use the logging functionality (and if so, where to save the log.txt files)  
-[`sn_files_utils.py`](https://github.com/gorbash1370/security_now_files/blob/main/sn_files_utils.py) - program functionality  
-[`sn_files_main.py`](https://github.com/gorbash1370/security_now_files/blob/main/sn_files_main.py) - executes the program. The function calls in the "Pre-Processing Functions' Section will need to run before any utility function call. NB: The function calls which make external requests are deliberately left commented out by default to prevent accidental / mass execution. Uncomment the specific lines you want to run.
+[`sn_files_user_variables.py`](https://github.com/gorbash1370/security-now-files/blob/main/sn_files_user_variables.py) - set the `output_directory` for where the downloaded files should be saved, set whether you want to use the logging functionality (and if so, where to save the log.txt files)  
+[`sn_files_utils.py`](https://github.com/gorbash1370/security-now-files/blob/main/sn_files_utils.py) - program functionality  
+[`sn_files_main.py`](https://github.com/gorbash1370/security-now-files/blob/main/sn_files_main.py) - executes the program. The function calls in the "Pre-Processing Functions' Section will need to run before any utility function call. NB: The function calls which make external requests are deliberately left commented out by default to prevent accidental / mass execution. Uncomment the specific lines you want to run.
 
 ## Other files 
-[`README.md`](https://github.com/gorbash1370/security_now_files/blob/main/README.md) - voila!  
-[`requirements.txt`](https://github.com/gorbash1370/security_now_files/blob/main/requirements.txt) - lists the packages installed by running `pip install requests`  
-[`LICENCE.md`](https://github.com/gorbash1370/security_now_files/blob/main/LICENSE) - lgpl-3.0 licence  
+[`README.md`](https://github.com/gorbash1370/security-now-files/blob/main/README.md) - voila!  
+[`requirements.txt`](https://github.com/gorbash1370/security-now-files/blob/main/requirements.txt) - lists the packages installed by running `pip install requests`  
+[`LICENCE.md`](https://github.com/gorbash1370/security-now-files/blob/main/LICENSE) - lgpl-3.0 licence  
 
 
 # Notes: Installation & Testing
@@ -73,7 +73,7 @@ This is an amateur project built mainly for coding practice, therefore...
 
 
 # Licences
-[License lgpl-3.0](https://github.com/gorbash1370/security_now_files/blob/main/LICENSE)  
+[License lgpl-3.0](https://github.com/gorbash1370/security-now-files/blob/main/LICENSE)  
 Please of course respect any licences and limitations expressed at [grc.com](https://www.grc.com/)
 
 
